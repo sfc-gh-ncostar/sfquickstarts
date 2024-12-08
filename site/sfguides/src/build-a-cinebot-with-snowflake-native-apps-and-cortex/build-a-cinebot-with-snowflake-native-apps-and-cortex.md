@@ -168,9 +168,10 @@ After creating the application package we'll need to upload the Native App code 
 5. Click the 'Upload' button
 6. Browse back up one level and then go into the '/src/' folder
 7. Select both files (ui.py, environment.yaml)
-8. Click the 'Upload' button
+8. Specify the path for the uploaded files as '/src'
+9. Click the 'Upload' button
 
-When this is done succesfully your we're now ready to create the Application Package. 
+When this is done succesfully, you should see 3 files and one `src` folder in the stage. We are now ready to create the Application Package. 
 
 ### Alter the Application Package
 ```sql
